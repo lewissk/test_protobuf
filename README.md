@@ -6,8 +6,8 @@ If you run
 
 You will get the following error:
 
-    [error] /Users/scott/Development/projects/adamatic/squbes/protobuf_scala_test/target/src_managed/main/compiled_protobuf/test/ContentCategory.scala:11: method isIab11 is defined twice
-    [error]   conflicting symbols both originated in file '/Users/scott/Development/projects/adamatic/squbes/protobuf_scala_test/target/src_managed/main/compiled_protobuf/test/ContentCategory.scala'
+    [error] /Users/xxx/test/protobuf_scala_test/target/src_managed/main/compiled_protobuf/test/ContentCategory.scala:11: method isIab11 is defined twice
+    [error]   conflicting symbols both originated in file '/Users/xxx/protobuf_scala_test/target/src_managed/main/compiled_protobuf/test/ContentCategory.scala'
     [error]   def isIab11: Boolean = false
     [error]       ^
     [error] one error found
